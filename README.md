@@ -13,3 +13,4 @@ For this EDA project I will be analyzing data from [Kaggle](https://www.kaggle.c
 * addr: String variable, Address
 * e: String variable, Dummy variable (always 1)
 
+Data provided by montcoalert.org
